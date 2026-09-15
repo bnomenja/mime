@@ -102,7 +102,12 @@ function App() {
                 />
             </main>
 
-            <footer>Tsingy tia jeux</footer>
+            <footer>
+              {" "}
+              <a href="https://github.com/bnomenja" target="_blank" rel="noopener noreferrer">
+              Tsingy tia jeux
+              </a>
+            </footer>
         </>
     )
 }
